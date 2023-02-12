@@ -1,0 +1,4 @@
+baseURL = 'https://januslin.live/'
+languageCode = 'en-us'
+title = 'Janus Lin'
+theme = 'ananke'

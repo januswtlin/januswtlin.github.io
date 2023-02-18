@@ -33,6 +33,8 @@ disableSitemap = false
 disable404     = false
 disableHugoGeneratorInject = false
 
+refLinksErrorLevel = "warning"
+
 [permalinks]
   posts = "/posts/:year/:month/:title/"
 

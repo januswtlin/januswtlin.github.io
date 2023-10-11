@@ -1,4 +1,4 @@
-baseURL = 'https://januslin.live/'
+baseURL = 'https://januslin.me/'
 languageCode = 'en-us'
 title = 'Janus Lin'
 theme = "hello-friend-ng"

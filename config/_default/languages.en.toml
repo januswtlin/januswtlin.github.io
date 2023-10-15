@@ -1,11 +1,11 @@
-languageCode = "zh-tw"
-languageName = "Traditional Chinese"
+languageCode = "en"
+languageName = "English"
 weight = 1
 title = "Janus Lin"
 
 [params]
-  displayName = "TW"
-  isoCode = "zh-tw"
+  displayName = "EN"
+  isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
   logo = "img/logo.png"
@@ -37,11 +37,11 @@ title = "Janus Lin"
 #     { gitlab = "https://gitlab.com/username" },
 #     { google = "https://www.google.com/" },
 #     { hashnode = "https://username.hashnode.dev" },
-#     { instagram = "https://www.instagram.com/janus.weitang.lin/" },
+#     { instagram = "https://instagram.com/username" },
 #     { keybase = "https://keybase.io/username" },
 #     { kickstarter = "https://www.kickstarter.com/profile/username" },
 #     { lastfm = "https://lastfm.com/user/username" },
-#     { linkedin = "https://www.linkedin.com/in/januslin/" },
+#     { linkedin = "https://linkedin.com/in/username" },
 #     { mastodon = "https://mastodon.instance/@username" },
 #     { medium = "https://medium.com/username" },
 #     { microsoft = "https://www.microsoft.com/" },
@@ -63,4 +63,4 @@ title = "Janus Lin"
 #     { whatsapp = "https://wa.me/phone-number" },
 #     { youtube = "https://youtube.com/username" },
 #     { ko-fi = "https://ko-fi.com/username" },
-  ]
+]

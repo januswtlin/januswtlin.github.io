@@ -16,6 +16,12 @@
   weight = 10
 
 [[main]]
+  name = "Brew Log"
+  parent = "Coffee"
+  pageRef = "tags/brew-log"
+  weight = 10
+
+[[main]]
   name = "BKK Life"
   pageRef = "tags/bkk-life/"
   weight = 20

@@ -10,18 +10,19 @@ title = "Janus Lin"
   dateFormat = "2 January 2006"
   logo = "img/logo.png"
   # secondaryLogo = "img/secondary-logo.png"
-  description = "Janus Lin personal website"
+  description = "Janus Lin's personal website"
   # copyright = "Copy, _right?_ :thinking_face:"
 
 [author]
   name = "Janus Lin"
   image = "img/janus_lin-2.jpeg"
-  headline = "Software Engineer and Weird Coffee Person"
-  bio = "A Taiwaness living in BKK Thailand. A software engineer. A weird coffee person. A traveler 🇹🇼 🇹🇭 🇮🇩 🇲🇾 🇵🇼 🇨🇭 🇮🇸 🇮🇹 🇰🇭 🇸🇬 🇺🇸 🇯🇵 🇹🇷 🇻🇳 ."
+  headline = "Software Engineer"
+#  bio = "A Taiwaness living in BKK Thailand. A software engineer. A weird coffee person. A traveler 🇹🇼 🇹🇭 🇮🇩 🇲🇾 🇵🇼 🇨🇭 🇮🇸 🇮🇹 🇰🇭 🇸🇬 🇺🇸 🇯🇵 🇹🇷 🇻🇳 ."
+  bio = ""
   links = [
-    { linkedin = "https://www.linkedin.com/in/januslin/" },
-    { instagram = "https://www.instagram.com/janus.weitang.lin/" },
-    { email = "mailto:janus.weitang.lin@gmail.com" },
+{ linkedin = "https://www.linkedin.com/in/januslin/" },
+{ instagram = "https://www.instagram.com/janus.weitang.lin/" },
+#     { email = "mailto:janus.weitang.lin@gmail.com" },
 #     { link = "https://link-to-some-website.com/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
 #     { apple = "https://www.apple.com" },

@@ -16,9 +16,8 @@ title = "Janus Lin"
 [author]
   name = "Janus Lin"
   image = "img/janus_lin-2.jpeg"
-  headline = "Software Engineer"
-#  bio = "A Taiwaness living in BKK Thailand. A software engineer. A weird coffee person. A traveler 🇹🇼 🇹🇭 🇮🇩 🇲🇾 🇵🇼 🇨🇭 🇮🇸 🇮🇹 🇰🇭 🇸🇬 🇺🇸 🇯🇵 🇹🇷 🇻🇳 ."
-  bio = ""
+  headline = "Software Engineer · Coffee Aficionado · Diver"
+  bio = "Software Engineer · Coffee Aficionado · Diver"
   links = [
 { linkedin = "https://www.linkedin.com/in/januslin/" },
 { instagram = "https://www.instagram.com/janus.weitang.lin/" },

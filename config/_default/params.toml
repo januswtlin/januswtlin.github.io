@@ -13,7 +13,7 @@ enableSearch = true
 enableCodeCopy = false
 
 # mainSections = ["coffee", "posts"]
-# robots = ""
+robots = "all"
 
 disableImageOptimization = true
 
